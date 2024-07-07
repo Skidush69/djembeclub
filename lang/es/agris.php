@@ -1,0 +1,32 @@
+<?php
+
+return [
+  'home' => 'Inicio',
+  'dashboard' => 'Panel de Control',
+  'product' => 'Producto',
+  'pricing' => 'Precios',
+  'testimonials' => 'Testimonios',
+  'faq' => 'Preguntas Frecuentes',
+  'login' => 'Iniciar Sesión',
+  'slogan_subtitle' => 'Únete a nuestra plataforma y',
+  'slogan' => 'Haz que la agricultura sea grandiosa de nuevo',
+  'form_title' => 'Comienza gratis',
+  'form_input_name' => 'Ingresa el nombre de la empresa o personal',
+  'form_input_email' => 'Ingresa tu dirección de correo electrónico',
+  'form_input_phone' => 'Teléfono',
+  'form_sign_up' => 'Regístrate',
+  'i_agree_to' => 'Estoy de acuerdo con la',
+  'and' => 'y',
+  'privacy_policy' => 'Política de Privacidad',
+  'terms_of_service' => 'Términos de Servicio',
+  'product_title' => 'Todas las herramientas que necesitas para crecer',
+  'product_subtitle' => 'Hemos escuchado las necesidades de los agricultores. Desde la semilla hasta la venta, te tenemos cubierto.',
+  'pricing_title' => 'Planes de Precios',
+  'pricing_subtitle' => 'Nuestros planes fueron diseñados específicamente para ayudarte a tener éxito.',
+  'start_now' => 'Empieza ahora',
+  'testimonial_subtitle' => 'Por qué nuestros clientes aman nuestro producto',
+  'testimonial_info' => 'No solo confíes en nuestra palabra, lee nuestra extensa lista de estudios de caso y testimonios de clientes.',
+  'fr_as_qu' => 'Preguntas Frecuentes',
+  'faq_subtitle' => 'Aquí tienes algunas de las preguntas frecuentes más comunes',
+];
+
